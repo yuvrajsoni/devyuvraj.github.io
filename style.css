@@ -65,8 +65,9 @@ nav h1 a:hover/*hover over on navbrand*/
 .container-img
 {
 	border-radius: 50%;/*it create full ronded border*/
-	width: 150px;/*set image width 150px*/
-	height: 150px;/*set image height 150px;*/
+	width: 180px;/*set image width 150px*/
+	height: 180px;/*set image height 150px;*/
+	border: solid 4px #FFFFFF; /*white border on img*/
 }
 
 /* styling base line of heading h2 element */
